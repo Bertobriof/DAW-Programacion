@@ -1,0 +1,9 @@
+package local.albertorodriguezacevedo.tarea01;
+public class MiPrograma { 
+ public static void main(String[ ] args) {
+// aquí va lo anterior…
+ Alumno alumno = new Alumno(“Xan”, 20);
+ System.out.println(alumno.nome + “ de ”
++ alumno.idade);
+ }
+}

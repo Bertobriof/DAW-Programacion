@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"local.albertorodriguezacevedo.tarea01","l":"OlaWittgenstein"}];updateSearchResults();

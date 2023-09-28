@@ -1,0 +1,9 @@
+local\alberto\tarea\jwordlesolver\GameSolver.class
+local\alberto\tarea\jwordlesolver\Letter.class
+local\alberto\tarea\jwordlesolver\WordleSolver.class
+local\alberto\tarea\jwordlesolver\Solution.class
+local\alberto\tarea\jwordlesolver\Letter$1.class
+local\alberto\tarea\jwordlesolver\LetterStatus.class
+local\alberto\tarea\jwordlesolver\WordleSolver$1.class
+local\alberto\tarea\jwordlesolver\JWordleSolver.class
+local\alberto\tarea\jwordlesolver\WordleSolution.class

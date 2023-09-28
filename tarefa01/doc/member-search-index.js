@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"local.albertorodriguezacevedo.tarea01","c":"OlaWittgenstein","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"local.albertorodriguezacevedo.tarea01","c":"OlaWittgenstein","l":"OlaWittgenstein()","u":"%3Cinit%3E()"}];updateSearchResults();
